@@ -76,11 +76,7 @@ Physics-based game built using JavaScript, Matter.js and p5.js.
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/puneet-goyal-1a8b85384)
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/codingkakeedaa/)
-
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:puneetgoyal87473@gmail.com)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/puneet-goyal-1a8b85384/)  [![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/codingkakeedaa/)  [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:puneetgoyal87473@gmail.com)
 
 ---
 
@@ -90,4 +86,4 @@ Physics-based game built using JavaScript, Matter.js and p5.js.
 
 ---
 
-⭐ Thanks for visiting my profile!
+⭐ Thanks for visiting!

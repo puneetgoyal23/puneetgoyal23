@@ -15,7 +15,6 @@ AI & Web Development
 - 🔭 Building modern websites for local businesses
 - 🌱 Currently learning React, Python, DSA & Git
 - 💻 Interested in Web Development and Software Engineering
-- 🔥 160+ LeetCode Problems Solved
 - 🏆 Participant in DCODE Hackathon
 - 🚀 Building real-world projects and client websites
 - ⚡ Fun Fact: I enjoy turning ideas into real products
